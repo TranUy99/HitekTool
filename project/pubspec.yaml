@@ -30,19 +30,26 @@ environment:
 dependencies:
   cached_network_image: ^3.1.0
   dio: ^5.0.3
+  firebase_analytics: ^10.8.9
+  firebase_core: ^2.4.0
+  firebase_remote_config: ^4.3.8
   flutter:
     sdk: flutter
   flutter_blurhash: ^0.8.2
   flutter_easyloading: ^3.0.5
   flutter_native_splash: ^2.0.3+1
+  flutter_persistent_keyboard_height: ^1.0.5
   flutter_spinkit: ^5.2.1
   flutter_svg: ^2.0.10+1
   get: ^4.6.6
   get_storage: ^2.1.1
   json_annotation: ^4.9.0
   octo_image: ^2.0.0
+  package_info: ^2.0.2
   retrofit: ^4.1.0
   skeletonizer: ^1.1.0
+  socket_io_client: ^2.0.3+1
+  uuid: ^4.3.3
 
 
   # The following adds the Cupertino Icons font to your application.

@@ -7,4 +7,6 @@ abstract class Routes {
   static const list = '/list';
   static const grid = '/grid';
   static const kpi = '/kpi';
+  static const chat = '/chat';
+  static const chatDetail = '/chatDetail';
 }

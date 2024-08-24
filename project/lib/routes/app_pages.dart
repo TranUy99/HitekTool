@@ -1,3 +1,7 @@
+import 'package:project/modules/chat_detail/chat_detail_binding.dart';
+import 'package:project/modules/chat_detail/chat_detail_page.dart';
+import 'package:project/modules/chat/chat_binding.dart';
+import 'package:project/modules/chat/chat_page.dart';
 import 'package:project/modules/dashboard/dashboard_binding.dart';
 import 'package:project/modules/dashboard/dashboard_page.dart';
 import 'package:project/modules/grid_view/grid_view_binding.dart';
@@ -43,6 +47,16 @@ abstract class AppPages {
       name: Routes.kpi,
       page: () => GridViewPage(),
       binding: GridViewBinding(),
+    ),
+    GetPage(
+      name: Routes.chat,
+      page: () => ChatPage(),
+      binding: ChatBinding(),
+    ),
+    GetPage(
+      name: Routes.chatDetail,
+      page: () => ChatDetailPage(),
+      binding: ChatDetailBinding(),
     ),
   ];
 }

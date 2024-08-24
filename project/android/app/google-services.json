@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1041138613461",
+    "project_id": "tool-eeb38",
+    "storage_bucket": "tool-eeb38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041138613461:android:c9474082ae6c7b49f1765c",
+        "android_client_info": {
+          "package_name": "com.hitek.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi9g1DB3oI6qzfeu4dlX9q6P_Lz1mhb8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

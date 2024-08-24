@@ -6,4 +6,8 @@ class ImagePaths {
   static const close = "assets/icons/close.svg";
 
   static const logo = "assets/images/logo.png";
+
+  static const smile = "assets/icons/smile.svg";
+  static const sad = "assets/icons/sad.svg";
+  static const heart = "assets/icons/heart.svg";
 }
